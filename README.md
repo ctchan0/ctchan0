@@ -33,11 +33,13 @@ Alongside my experimental work in motion tracking and 3D rendering, I build prac
 <!-- Tech Stack Section -->
 ## 🛠️ The Toolkit
 
-| **Core** | **Visuals & 3D** | **Backend & AI** |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Threejs](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![R3F](https://img.shields.io/badge/React%20Three%20Fiber-black?style=flat&logo=three.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| ![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) | ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=opengl&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| Project | Description | Stack |
+| :--- | :--- | :--- | 
+| **Body Sync** | Real-time synchronization of human body movement to digital avatars. Maps physical coordinates to virtual skeletons. | `Socket.io` `Three.js` | 
+| **Pose Detection Server** | High-performance backend server dedicated to processing video feeds and extracting skeletal landmarks. | `Python` `MediaPipe` | 
+| **Electron React Three** | A desktop application framework bridging Electron's system capabilities with React Three Fiber. | `Electron` `R3F` | 
+| **R3F Games** | A collection of custom games exploring physics and interaction using React Three Fiber. | `R3F` `Cannon.js` |
+| **Pose Detection** | Client-side implementation of computer vision models to track user movement. | `TensorFlow` `JS` |  
 
 ---
 
