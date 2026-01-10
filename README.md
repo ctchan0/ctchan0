@@ -31,7 +31,7 @@ Alongside my experimental work in motion tracking and 3D rendering, I build prac
 ---
 
 <!-- Tech Stack Section -->
-## 🛠️ The Toolkit
+## 🧪 Interactive Experiments & Motion
 
 | Project | Description | Stack |
 | :--- | :--- | :--- | 
@@ -40,19 +40,6 @@ Alongside my experimental work in motion tracking and 3D rendering, I build prac
 | **Electron React Three** | A desktop application framework bridging Electron's system capabilities with React Three Fiber. | `Electron` `R3F` | 
 | **R3F Games** | A collection of custom games exploring physics and interaction using React Three Fiber. | `R3F` `Cannon.js` |
 | **Pose Detection** | Client-side implementation of computer vision models to track user movement. | `TensorFlow` `JS` |  
-
----
-
-<!-- Interactive Projects -->
-## 🧪 Interactive Experiments & Motion
-
-| Project | Description | Stack |
-| :--- | :--- | :--- | :--- |
-| **Body Sync** | Real-time synchronization of human body movement to digital avatars. Maps physical coordinates to virtual skeletons. | `Socket.io` `Three.js` |
-| **Pose Detection Server** | High-performance backend server dedicated to processing video feeds and extracting skeletal landmarks. | `Python` `MediaPipe` |
-| **Electron React Three** | A desktop application framework bridging Electron's system capabilities with React Three Fiber. | `Electron` `R3F` | 
-| **R3F Games** | A collection of custom games exploring physics and interaction using React Three Fiber. | `R3F` `Cannon.js` |
-| **Pose Detection** | Client-side implementation of computer vision models to track user movement. | `TensorFlow` `JS` |
 
 ---
 
