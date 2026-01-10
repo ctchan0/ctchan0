@@ -1,13 +1,17 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%26%20Builder&descAlignY=60&descAlign=50" />
-</div>
 
-<div align="center">
-
+  <h1 style="font-size: 50px;">Hi, I'm Noah 👋</h1>
+  
   <h3>
-    I am a passionate Software Engineer.
+    Software Engineer & Creative Builder
   </h3>
+  
+  <p>
+    <i>Specializing in Computer Vision, React Three Fiber, and Full Stack Development.</i>
+  </p>
+
+  <br />
 
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/noah-chan-193221192/">
