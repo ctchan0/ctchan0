@@ -10,10 +10,10 @@
   </h3>
 
   <!-- Social Badges -->
-  <a href="https://linkedin.com/in/your-linkedin-handle">
+  <a href="https://www.linkedin.com/in/noah-chan-193221192/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="noahchan1224@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -44,13 +44,13 @@ Alongside my experimental work in motion tracking and 3D rendering, I build prac
 <!-- Interactive Projects -->
 ## 🧪 Interactive Experiments & Motion
 
-| Project | Description | Stack | Link |
+| Project | Description | Stack |
 | :--- | :--- | :--- | :--- |
-| **Body Sync** | Real-time synchronization of human body movement to digital avatars. Maps physical coordinates to virtual skeletons. | `Socket.io` `Three.js` | [**Repo**](https://github.com/yourusername/body-sync) |
-| **Pose Detection Server** | High-performance backend server dedicated to processing video feeds and extracting skeletal landmarks. | `Python` `MediaPipe` | [**Repo**](https://github.com/yourusername/pose-detection-server) |
-| **Electron React Three** | A desktop application framework bridging Electron's system capabilities with React Three Fiber. | `Electron` `R3F` | [**Repo**](https://github.com/yourusername/electron-react-three) |
-| **R3F Games** | A collection of custom games exploring physics and interaction using React Three Fiber. | `R3F` `Cannon.js` | [**Repo**](https://github.com/yourusername/r3f-games) |
-| **Pose Detection** | Client-side implementation of computer vision models to track user movement. | `TensorFlow` `JS` | [**Repo**](https://github.com/yourusername/pose-detection) |
+| **Body Sync** | Real-time synchronization of human body movement to digital avatars. Maps physical coordinates to virtual skeletons. | `Socket.io` `Three.js` |
+| **Pose Detection Server** | High-performance backend server dedicated to processing video feeds and extracting skeletal landmarks. | `Python` `MediaPipe` |
+| **Electron React Three** | A desktop application framework bridging Electron's system capabilities with React Three Fiber. | `Electron` `R3F` | 
+| **R3F Games** | A collection of custom games exploring physics and interaction using React Three Fiber. | `R3F` `Cannon.js` |
+| **Pose Detection** | Client-side implementation of computer vision models to track user movement. | `TensorFlow` `JS` |
 
 ---
 
@@ -63,13 +63,13 @@ I build scalable applications solving real-world problems for pet owners.
 > **E-commerce Platform**
 > A full-featured e-commerce destination for pet supplies. Features include dynamic cart management, user authentication, and payment processing.
 >
-> 🔗 [**View Repository**](https://github.com/yourusername/paw-x-paw-hub)
+> 🔗 [**View Website**](https://pawxpawhub.com/)
 
 #### 🐶 Petffic
 > **Mobile Application**
 > A comprehensive app for pet owners. It allows users to manage **health records and walking schedules**, while also featuring a social platform to **meet new friends** and arrange playdates within the community.
 >
-> 🔗 [**View Repository**](https://github.com/yourusername/petffic)
+> 🔗 [**View Website**](https://petiffic.com/)
 
 ---
 
