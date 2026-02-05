@@ -8,7 +8,7 @@
   </h3>
   
   <p>
-    <i>Specializing in Computer Vision, React Three Fiber, and Full Stack Development.</i>
+    <i>Specializing in Interactive Media • Mobile Development • AI Systems</i>
   </p>
 
   <br />
@@ -28,9 +28,47 @@
 <!-- About Me -->
 ## ⚡ About Me
 
-I am a Developer passionate about building functional applications and interactive experiences. I enjoy combining **Computer Vision** (Pose Detection) with front-end technologies to control digital environments with physical movement. 
+I build **interactive apps, mobile solutions, and intelligent platforms** that connect technology with real-world needs.
 
-Alongside my experimental work in motion tracking and 3D rendering, I build practical, full-stack solutions for the pet industry, managing everything from server logic to user interface.
+**Interactive Media**  
+- Computer vision pose detection  
+- 3D game development  
+- React Three Fiber motion control  
+- Physics-based R3F games  
+
+**Mobile Development**  
+- Petffic full-stack app  
+- Pet health records  
+- Walking schedules  
+- Social network for playdates  
+
+**Intelligent Systems**  
+- AI-powered survey platform  
+- University-scale feedback  
+- GPT-4 insight generation  
+- Automated content moderation  
+
+---
+
+## 🧭 Online Survey Platform (AI-Powered)
+
+A TypeScript-first **REST API** + React dashboard for university-scale surveys and AI insights.
+
+**Tech Stack**  
+`Node.js + Express` `TypeScript` `MongoDB (Mongoose)` `React + Vite` `TailwindCSS` `Docker` `OpenAI GPT-4`
+
+**Core Features**  
+- Public token surveys + API-key admin auth  
+- Survey locking after first response (data integrity)  
+- Linked qualitative questions (score → explanation)  
+- AI content moderation + intelligent text sampling  
+- Domain-aware insights (course feedback, satisfaction, events)
+
+**Architecture**  
+Layered: Routes → Controllers → Services → Models  
+Zod validation, snapshotting, idempotent AI calls, Jest tests
+
+🔗 [**GitHub Repo**](https://github.com/ctchan0/OSP_backend)
 
 ---
 
@@ -40,29 +78,27 @@ Alongside my experimental work in motion tracking and 3D rendering, I build prac
 | Project | Description | Stack |
 | :--- | :--- | :--- | 
 | **Body Sync** | Real-time synchronization of human body movement to digital avatars. Maps physical coordinates to virtual skeletons. | `Socket.io` `Three.js` | 
-| **Pose Detection Server** | High-performance backend server dedicated to processing video feeds and extracting skeletal landmarks. | `Python` `MediaPipe` | 
-| **Electron React Three** | A desktop application framework bridging Electron's system capabilities with React Three Fiber. | `Electron` `R3F` | 
+| **Pose Detection Server** | High-performance backend server dedicated to processing video feeds and extracting skeletal landmarks. | `Python` `MediaPipe` 
 | **R3F Games** | A collection of custom games exploring physics and interaction using React Three Fiber. | `R3F` `Cannon.js` |
-| **Pose Detection** | Client-side implementation of computer vision models to track user movement. | `TensorFlow` `JS` |  
 
 ---
 
 <!-- Product Development Section -->
 ## 🚀 Product Development (Pet Tech)
 
-I build scalable applications solving real-world problems for pet owners.
-
-#### 🐾 PawXPawHub
-> **E-commerce Platform**
-> A full-featured e-commerce destination for pet supplies. Features include dynamic cart management, user authentication, and payment processing.
->
-> 🔗 [**View Website**](https://pawxpawhub.com/)
+I build **scalable full-stack applications** that solve everyday challenges for pet owners and their communities.
 
 #### 🐶 Petffic
-> **Mobile Application**
-> A comprehensive app for pet owners. It allows users to manage **health records and walking schedules**, while also featuring a social platform to **meet new friends** and arrange playdates within the community.
+> **Full-Stack Mobile App**  
+> Pet health records, walking schedules, and social playdate network for pet owners.  
 >
 > 🔗 [**View Website**](https://petiffic.com/)
+
+#### 🐾 PawXPawHub
+> **Pet E-Commerce Platform**  
+> Dynamic shopping cart, user auth, and payment processing for pet supplies.  
+>
+> 🔗 [**View Website**](https://pawxpawhub.com/)
 
 ---
 
